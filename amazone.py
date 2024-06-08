@@ -70,5 +70,4 @@ while True:
     price = check_phone_price()
     if(price<17500):
         send_email()
-    time.sleep(36000) # Take input in seconds 
-    
+    time.sleep(36000)#take inputs in secs
